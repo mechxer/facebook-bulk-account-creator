@@ -2,7 +2,7 @@
 
 ### Features
 
-** -Create Facebook Account from Automatically.
+**-Create Facebook Account from Automatically.
 
 -Fake email/phonenumber signup option
 
@@ -50,7 +50,7 @@
 
 -User Friendly Graphical Interface.
 
--And Many more.. **
+-And Many more..**
 
 
 Special Features
