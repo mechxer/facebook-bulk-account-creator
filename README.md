@@ -2,33 +2,55 @@
 
 ### Features
 
--Create Facebook Account from Automatically.
+** -Create Facebook Account from Automatically.
 
 -Fake email/phonenumber signup option
 
 -Real email signup option.
+
 -Auto Add Temp Mail or User Provided Hotmail/Outlook Emails.
--Custom Email Smtp Settings
--Mutliple Email Service API
--Very Cheap Onetime Email Service for Facebook Verify
+
+-Custom Email Smtp Settings.
+
+-Mutliple Email Service API.
+
+-Very Cheap Onetime Email Service for Facebook Verify.
+
 -Auto Activate Two Factor Authentication.
+
 -Auto Save Account Cookies.
+
 -Auto download and add profile picture.
+
 -Auto add cover photo.
+
 -Auto add random profile details.
--Auto add random friends (1-100 user choice)
+
+-Auto add random friends (1-100 user choice).
+
 -Auto add bio from txt file.
+
 -Proxy Option.
+
 -Proxy Rotation Api Option.
+
 -Unique IP Option for every New Account.
+
 -Select Multiple Country Name set.
+
 -Custom Select Any Mobile Devices.
+
 -Enhance and Reduce Data Traffic use.
+
 -Multiple Concurrent Process Support.
+
 -Multi Threads Support.
+
 -Built-in Database support.
+
 -User Friendly Graphical Interface.
--And Many more..
+
+-And Many more.. **
 
 
 Special Features
