@@ -3,8 +3,8 @@
 ### Features
 
 
-**-Create Facebook Account from Automatically.
--Fake email/phonenumber signup option
+**-Create Facebook Account from Automatically.**
+**-Fake email/phonenumber signup option
 -Real email signup option.
 -Auto Add Temp Mail or User Provided Hotmail/Outlook Emails.
 -Custom Email Smtp Settings
